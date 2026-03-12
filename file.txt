@@ -2,4 +2,8 @@ my second  task
 its remote change 
 local changes to my file
 changed in git hub
+<<<<<<< HEAD
 remote change 
+=======
+local chnage has done in step6
+>>>>>>> f092834 (local change6)
